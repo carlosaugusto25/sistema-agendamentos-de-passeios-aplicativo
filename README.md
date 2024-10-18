@@ -16,6 +16,7 @@
 </ul>
 
 <p>Segue imagens do projeto:</p>
+<div style={{display: "flex", flexDirection: "row"}}>
 <img src="https://i.ibb.co/Px0ndCB/wapp1.jpg" alt="wapp1" border="0">
 <img src="https://i.ibb.co/PwM6F1r/wapp2.jpg" alt="wapp2" border="0">
 <img src="https://i.ibb.co/8606xpV/wapp3.jpg" alt="wapp3" border="0">
@@ -25,3 +26,4 @@
 <img src="https://i.ibb.co/Mkt8K6V/wapp7.jpg" alt="wapp7" border="0">
 <img src="https://i.ibb.co/NYcCPyf/wapp6.jpg" alt="wapp6" border="0">
 <img src="https://i.ibb.co/540p381/Imagem-do-Whats-App-de-2024-10-18-s-20-30-47-0ecaa193.jpg" alt="Imagem-do-Whats-App-de-2024-10-18-s-20-30-47-0ecaa193" border="0">
+</div>
