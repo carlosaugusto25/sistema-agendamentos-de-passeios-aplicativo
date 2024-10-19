@@ -1,5 +1,11 @@
 <h1>Sistema de agendamentos de passeios de lancha em Fernando de Noronha</h1>
 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
 <h3>*Código para fins didáticos, Não possui dados sensíveis.*</h3>
 
 <h2>Foi construído um sistema de agendamentos para que o cliente pudesse fazer o controle das datas de seus agendamentos de passeio, e funcionalidades como:</h2>
